@@ -14,7 +14,7 @@ setup(
     description="Bevat functies en classes gerelateerd aan de Robot, zie word document.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/realpython/reader",
+    url="https://github.com/007Whitetiger/RobotInDeKlas_Controller",
     author="Pijn", # samenvoeging van pieter en stijn :)
     author_email="developer.whitetiger@gmail.com",
     license="MIT",
